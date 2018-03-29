@@ -1,6 +1,10 @@
 
 def levitation_quiz
-	SENT TO BETH on March 5th
+  loop do
+    "What is the spell that enacts levitation?"
+	   answer = gets.chomp
+	   break if answer == 
+	
 end
 
 
